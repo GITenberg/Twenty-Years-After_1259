@@ -1,5 +1,8 @@
 _repo: Twenty-Years-After_1259
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -23,6 +26,8 @@ description: "Twenty Years After (French: Vingt ans après) is a novel by Alexan
   \ at least the text often praises the idea of benevolent royalty. His musketeers\
   \ are valiant and just in their efforts to protect young Louis XIV and the doomed\
   \ Charles I from their attackers.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1259#Twenty-Years-After
 gutenberg_bookshelf:
 - Adventure
 - Historical Fiction
