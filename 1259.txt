@@ -1,22 +1,21 @@
                            TWENTY YEARS AFTER
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you'll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: Twenty Years After
-
 Author: Alexandre Dumas, Pere
-
 Release Date: May 11, 2003 [EBook #1259]
-
-Last Updated: 2012-02-25
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: US-ASCII
 
 
@@ -27,6 +26,7 @@ ALEXANDRE DUMAS, PERE ***
 
 
 Produced by An Anonymous Volunteer, and David Widger.
+
 
 
 
@@ -48,7 +48,6 @@ Produced by An Anonymous Volunteer, and David Widger.
 CONTENTS
 
 
-    CONTENTS
     1. The Shade of Cardinal Richelieu.
     2. A Nightly Patrol.
     3. Dead Animosities.
@@ -297,7 +296,7 @@ villain Particelli upon me."
 whom your majesty refers, has been hanged."
 
 "Ah; so much the better!" exclaimed the king. "It is not for nothing
-that I am styled Louis the Just." and he signed Emery's appointment.
+that I am styled Louis the Just," and he signed Emery's appointment.
 
 This was the same Emery who became eventually superintendent of finance.
 
@@ -637,8 +636,10 @@ listen----"
 
 At that moment a window opened and a man began to sing:
 
-"A tempest from the Fronde Did blow to-day: I think 'twill blow Sieur
-Mazarin away."
+    | "A tempest from the Fronde
+    | Did blow to-day:
+    | I think 'twill blow
+    | Sieur Mazarin away."
 
 "Insolent wretch!" cried Guitant.
 
@@ -1873,7 +1874,7 @@ you were able to repel the attacks of that adversary."
 
 "I!" said the queen. "I suffered, that is all."
 
-"Yes." said Mazarin, "as women suffer in avenging themselves. Come, let
+"Yes," said Mazarin, "as women suffer in avenging themselves. Come, let
 us come to the point. Do you know Monsieur de Rochefort?"
 
 "One of my bitterest enemies--the faithful friend of Cardinal
@@ -2582,7 +2583,7 @@ to all force. The Swiss received two wounds and was not aware of it, by
 reason of the cold; but suddenly feebleness, occasioned by loss of
 blood, obliged him to sit down.
 
-"There!" said: D'Artagnan, "what did I tell you? Fortunately, you won't
+"There!" said D'Artagnan, "what did I tell you? Fortunately, you won't
 be laid up more than a fortnight. Remain here and I will send you your
 clothes by the boy. Good-by! Oh, by the way, you'd better take lodging
 in the Rue Montorgueil at the Chat Qui Pelote. You will be well fed
@@ -6644,7 +6645,7 @@ make some verses on him, but soon gave up the attempt, for Monsieur de
 Beaufort had not only not received from Heaven the gift of versifying,
 he had the greatest difficulty in expressing himself in prose.
 
-The duke was the grandson of Henry VI. and Gabrielle d'Estrees--as
+The duke was the grandson of Henry IV. and Gabrielle d'Estrees--as
 good-natured, as brave, as proud, and above all, as Gascon as his
 ancestor, but less elaborately educated. After having been for some time
 after the death of Louis XIII. the favorite, the confidant, the first
@@ -7827,9 +7828,9 @@ famous pate will contain."
 "Two poniards, a knotted rope and a poire d'angoisse." *
 
     _* This poire d'angoisse was a famous gag, in the form of a
-    pear,_
+            pear,_
     _which, being thrust into the mouth, by the aid of a spring,
-    dilated,_
+            dilated,_
     _so as to distend the jaws to their greatest width._
 
 "Yes, I understand."
@@ -7982,7 +7983,7 @@ that it may not be interrupted."
 "I am not at home to any one," said the Duchess de Chevreuse to the
 footman. "You may go."
 
-The footman went out
+The footman went out.
 
 There ensued a brief silence, during which these two persons, who at
 first sight recognized each other so clearly as of noble race, examined
@@ -18371,7 +18372,7 @@ his last hour had come and confessed himself to his brother priest, so
 as to be all ready to die in case he was discovered. Fortunately,
 however, he had not been taken; the people, believing that he had
 escaped by some back entrance, retired and left him at liberty to
-retreat. Then, disguised in he clothes of the Marquis d'O----, he had
+retreat. Then, disguised in the clothes of the Marquis d'O----, he had
 left the hotel, stumbling over the bodies of an officer and two guards
 who had been killed whilst defending the street door.
 
@@ -19013,7 +19014,7 @@ Raoul started to rejoin the army.
 
 Rochefort alone was dissatisfied with the termination of affairs. He had
 written to the Duc de Beaufort to come and the duke was about to arrive,
-and he world find Paris tranquil. He went to the coadjutor to consult
+and he would find Paris tranquil. He went to the coadjutor to consult
 with him whether it would not be better to send word to the duke to stop
 on the road, but Gondy reflected for a moment, and then said:
 
@@ -21433,9 +21434,10 @@ take possession of them.
 
 "Embrace, with all your heart, the vicomte, for your devoted, friend,
 
-"ATHOS." "I believe, by Heaven," said D'Artagnan, "that I shall embrace
-him, since he's upon our road; and if he is so unfortunate as to lose
-our dear Athos, from that very day he becomes my son."
+"ATHOS."
+       "I believe, by Heaven," said D'Artagnan, "that I shall embrace
+       him, since he's upon our road; and if he is so unfortunate as to
+       lose our dear Athos, from that very day he becomes my son."
 
 "And I," said Porthos, "shall make him my sole heir."
 
@@ -21465,7 +21467,8 @@ any good luck you lay your hand on a certain man named Mordaunt, tell
 Porthos to take him into a corner and to wring his neck. I dare not say
 more in a letter.
 
-"ARAMIS." "If that is all, it is easily done," said Porthos.
+"ARAMIS."
+       "If that is all, it is easily done," said Porthos.
 
 "On the contrary," observed D'Artagnan, with a vexed look; "it would be
 impossible."
@@ -22896,7 +22899,7 @@ place in the government?"
 "Let us hear what it is, first."
 
 "Sir, when you have told me to obey an order did I ever answer, 'Let me
-see that order '?"
+see that order'?"
 
 "If, however, your wish should be one impossible to fulfill?"
 
@@ -23728,7 +23731,7 @@ your mission is ended, and ended nobly; return to France with us."
 
 "Then you have some other motive unknown to us?"
 
-Athos smiled and D'Artagnan struck his hand together in anger and
+Athos smiled and D'Artagnan struck his hands together in anger and
 muttered the most convincing reasons that he could discover; but to all
 these reasons Athos contented himself by replying with a calm, sweet
 smile and Aramis by nodding his head.
@@ -27707,7 +27710,7 @@ whilst D'Artagnan, ever cautious, remained on horseback, one hand upon
 his pistol, leaning forward watchfully.
 
 On seeing the appointed signal, Groslow, who had at first crept behind
-one of the cannon planted on that spot, walked straight up to the
+one of the cannons planted on that spot, walked straight up to the
 gentlemen. He was so well wrapped up in his cloak that it would have
 been impossible to see his face even if the night had not been so dark
 as to render precaution superfluous; nevertheless, the keen glance of
@@ -34508,7 +34511,7 @@ sleep on the first night after the fulfilment of long cherished hopes.
 The next day at the appointed hour they went to see Athos and found him
 and Aramis in traveling costume.
 
-"What!" cried Porthos, "are we all going away, then? I, so, have made my
+"What!" cried Porthos, "are we all going away, then? I also have made my
 preparations this morning."
 
 "Oh, heavens! yes," said Aramis. "There's nothing to do in Paris now
@@ -34542,7 +34545,7 @@ other again.
 
 D'Artagnan returned to the Rue Tiquetonne with Porthos, still possessed
 by the wish to find out who the man was that he had killed. On arriving
-at the Hotel de la Chevrette they found the baron's equipage all really
+at the Hotel de la Chevrette they found the baron's equipage all ready
 and Mousqueton on his saddle.
 
 "Come, D'Artagnan," said Porthos, "bid adieu to your sword and go with
@@ -34617,21 +34620,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/1259
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg(tm) electronic works to protect the
-Project Gutenberg(tm) concept and trademark. Project Gutenberg is a
-registered trademark, and may not be used if you charge for the eBooks,
-unless you receive specific permission. If you do not charge anything
-for copies of this eBook, complying with the rules is very easy. You may
-use this eBook for nearly any purpose such as creation of derivative
-works, reports, performances and research. They may be modified and
-printed and given away - you may do practically _anything_ with public
-domain eBooks.  Redistribution is subject to the trademark license,
-especially commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg(tm)
+electronic works to protect the Project Gutenberg(tm) concept and
+trademark. Project Gutenberg is a registered trademark, and may not be
+used if you charge for the eBooks, unless you receive specific
+permission. If you do not charge anything for copies of this eBook,
+complying with the rules is very easy. You may use this eBook for nearly
+any purpose such as creation of derivative works, reports, performances
+and research.  They may be modified and printed and given away - you may
+do practically _anything_ in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
 
 
 
@@ -34677,9 +34681,9 @@ works. See paragraph 1.E below.
 Foundation" or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg(tm) electronic works. Nearly all the individual works
 in the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg(tm) mission of promoting free access to electronic
@@ -34689,6 +34693,7 @@ associated with the work. You can easily comply with the terms of this
 agreement by keeping this work in the same format with its attached full
 Project Gutenberg(tm) License when you share it without charge with
 others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -34709,21 +34714,25 @@ on which the phrase "Project Gutenberg" appears, or with which the
 phrase "Project Gutenberg" is associated) is accessed, displayed,
 performed, viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you'll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg(tm) electronic work is
-derived from the public domain (does not contain a notice indicating
-that it is posted with permission of the copyright holder), the work can
-be copied and distributed to anyone in the United States without paying
-any fees or charges. If you are redistributing or providing access to a
-work with the phrase "Project Gutenberg" associated with or appearing on
-the work, you must comply either with the requirements of paragraphs
-1.E.1 through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg(tm) trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
+derived from texts not protected by U.S. copyright law (does not contain
+a notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase "Project Gutenberg"
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg(tm) trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg(tm) electronic work is
 posted with the permission of the copyright holder, your use and
@@ -34797,21 +34806,22 @@ provided that
 *1.E.9.* If you wish to charge a fee or distribute a Project
 Gutenberg(tm) electronic work or group of works on different terms than
 are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg(tm) trademark. Contact the
-Foundation as set forth in Section 3. below.
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg(tm)
+trademark. Contact the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg(tm) collection.
-Despite these efforts, Project Gutenberg(tm) electronic works, and the
-medium on which they may be stored, may contain "Defects," such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg(tm) collection. Despite these efforts, Project Gutenberg(tm)
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -34842,7 +34852,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you 'AS-IS,' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -34897,13 +34907,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state's laws.
 
-The Foundation's principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation's web site and official page
-at http://www.pglaf.org
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -34958,9 +34968,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg(tm) eBooks with only a loose network of volunteer support.
 
 Project Gutenberg(tm) eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook's eBook
 number, often in several formats including plain vanilla ASCII,
